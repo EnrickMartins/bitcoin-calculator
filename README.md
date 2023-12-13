@@ -24,5 +24,3 @@ Needs:
 * Calculate with Transaction Fees
 * Share on Social Media (twitter, facebook, instagram, etc)
 
-
-
